@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">A passionate about loves DevOps world</h3>
+<h3 align="center">A passionate about DevOps world</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1161702497/vector/team-of-programmer-concept-with-devops-software-development-practices-methodology-vector.jpg?s=612x612&w=0&k=20&c=5cqLQaudaYaXv3OdYQHjt-F-LhcuOiBhXWtHLMwj4PU=">
 
 - 👨‍🎓 Study at [CTU FEL SIT](https://sit.fel.cvut.cz/)
