@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Study at [CTU FEL SIT](https://sit.fel.cvut.cz/)
 - 📫 How to reach me **artem042003@email.cz**
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1gHSmBJmfDoBq_UM0pZlGY_SIrMDzkq9VC6-K2w250KE/edit?usp=drive_link](https://docs.google.com/document/d/1qblfDAx62Q1esYQgeNIOE95T8eayJJLzdMHv9hIGaSs/edit?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1qblfDAx62Q1esYQgeNIOE95T8eayJJLzdMHv9hIGaSs/edit?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
