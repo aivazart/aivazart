@@ -6,9 +6,3 @@
 - 👨‍🎓 Ing. at [CTU FIT](https://fit.cvut.cz/en)
 - 📫 How to reach me **aivazart042003@gmail.com**
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1qblfDAx62Q1esYQgeNIOE95T8eayJJLzdMHv9hIGaSs/edit?usp=drive_link)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/artem-aivazian-a18414261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem aivazian" height="30" width="40" /></a>
-</p>
