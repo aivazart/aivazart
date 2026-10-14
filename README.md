@@ -4,4 +4,4 @@
 
 - 👨‍🎓 Bc. at [CTU FEE](https://fel.cvut.cz/en)
 - 📫 How to reach me **aivazart042003@gmail.com**
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1qblfDAx62Q1esYQgeNIOE95T8eayJJLzdMHv9hIGaSs/edit?usp=drive_link)
+- 📄 Know about my experiences [My LinkedIn](http://www.linkedin.com/in/artem-aivazian-a18414261)
